@@ -1,0 +1,2 @@
+# premium-cask-cond-001-real-ale-cask-conditioning-spi
+Stop guessing when to tap your cask—your real ale deserves precision, not luck. Every spile change, every degree, every gravity reading matters for that perfect pint.  This Notion template gives you a single, structured home to log every spile vent adjustment, temperature shift, and gravity drop across your cask conditioning timeline. Stop relying
